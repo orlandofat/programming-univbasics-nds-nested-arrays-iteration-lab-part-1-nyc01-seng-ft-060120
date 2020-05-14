@@ -16,4 +16,4 @@ end
 row_index += 1
 end
 end
-find_even_values.each
+puts find_even_values.even
